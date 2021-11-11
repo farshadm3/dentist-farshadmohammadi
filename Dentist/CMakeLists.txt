@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.0)
+project(AP)
+set(CMAKE_CXX_STANDARD 11)
+include_directories(include)
+add_executable(app src/Dentist.cpp src/Date.cpp src/Managmentcpp.cpp src/Patient.cpp src/Service.cpp src/Turn.cpp)

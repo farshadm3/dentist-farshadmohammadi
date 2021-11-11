@@ -1,0 +1,3 @@
+/home/farshadm99/Desktop/Dentist/build/CMakeFiles/rebuild_cache.dir
+/home/farshadm99/Desktop/Dentist/build/CMakeFiles/app.dir
+/home/farshadm99/Desktop/Dentist/build/CMakeFiles/edit_cache.dir
